@@ -6,7 +6,7 @@ Linear Regression uses the scaled edition of [Housing](https://www.csie.ntu.edu.
 ### Closed-Form Solution to Linear Regression
 Closed-Form Equation:
 >**w*** = (**X**<sup>T</sup>**X**)<sup>-1</sup>**X**<sup>T</sup>**y**
-### Stochastic Gradient Descent solution to Linear Regression
+### Stochastic Gradient Descent Solution to Linear Regression
 Initialization:
 >**w** = **0**
 
